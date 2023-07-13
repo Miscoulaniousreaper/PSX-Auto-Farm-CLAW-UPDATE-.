@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Miscoulaniousreaper/PSX-Auto-Farm-Claw-Update-/main/PSX%20Auto%20Farm%20(Claw%20Update)
+",true))()
